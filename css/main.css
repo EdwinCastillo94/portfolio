@@ -254,7 +254,7 @@
     gap: 1rem;
     color: var(--muted);
     background: url(/portfolio/img/foto.png) top center no-repeat;
-    background-size: contain;
+    background-size: cover;
   }
   .about-img-placeholder svg { opacity: 0.3; }
   .about-img-placeholder p { font-size: 0.85rem; }
