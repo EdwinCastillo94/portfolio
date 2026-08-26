@@ -283,9 +283,6 @@
   .skill-tag:hover { border-color: var(--accent2); color: var(--accent2); background: rgba(109,74,237,0.05); }
 
   /* WORK */
- /* ================================
-   PROJECTS
-================================ */
 #work {
   padding: 8rem 6%;
 }
