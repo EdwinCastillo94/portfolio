@@ -233,7 +233,7 @@
 
   /* ABOUT */
   #about { background: var(--surface); }
-  .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6rem; align-items: center; }
+  .about-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 3rem; align-items: center; }
   .about-img-wrap {
     position: relative;
   }
