@@ -335,6 +335,7 @@
   object-fit: cover;
   display: block;
   transition: transform 0.6s ease;
+  object-position: top;
 }
 
 .project-card:hover .project-image img {
