@@ -468,7 +468,7 @@
   .contact-inner { max-width: 700px; margin: 0 auto; }
   .contact-big {
     font-family: 'Roboto', sans-serif;
-    font-size: clamp(3rem, 7vw, 6rem);
+    font-size: 60px;
     font-weight: 800; letter-spacing: -0.05em; line-height: 0.9;
     margin: 1.5rem 0 2rem;
   }
